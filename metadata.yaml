@@ -1,5 +1,8 @@
 _repo: The-ritual-and-significance-of-the-Winnebago-medicine-dance_70615
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70615-h/images/cover.jpg
 creator:
   author:
     agent_name: Radin, Paul
@@ -10,6 +13,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/Paul_Radin
 description: '"Reprinted from the Journal of American folk-lore, vol. XXIV, no. XCII,
   April-June, 1911."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70615#The-ritual-and-significance-of-the-Winnebago-medicine-dance
 gutenberg_issued: '2023-04-22'
 identifiers:
   gutenberg: '70615'
